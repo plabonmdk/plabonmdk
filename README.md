@@ -10,7 +10,7 @@
 
 Email: [plabonmdk@gmail.com](mailto:plabonmdk@gmail.com)
 GitHub: https://github.com/plabonmdk
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn: https://www.linkedin.com/in/plabon-chandro-modak-411543383****
 
 ---
 
