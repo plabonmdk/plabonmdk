@@ -43,8 +43,8 @@ LinkedIn: https://linkedin.com/in/yourusername
 
 React based web application for managing support tickets.
 
-Live: https://yourprojectlink.com
-Code: https://github.com/yourrepo
+Live: https://kids-toy-store-platform.web.app/
+Code: https://github.com/plabonmdk/Kids-Toy-Store-Platform.git
 
 ---
 
@@ -52,8 +52,8 @@ Code: https://github.com/yourrepo
 
 Personal portfolio website to showcase projects and skills.
 
-Live: https://yourprojectlink.com
-Code: https://github.com/yourrepo
+Live: [https://garments-order.web.app/]
+Code: https://github.com/plabonmdk/Garments-Order-Production-Tracker-System.git
 
 ---
 
